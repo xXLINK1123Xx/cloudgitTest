@@ -5,4 +5,7 @@ import stanford.karel.*;
 
 public class FirstProgram extends Karel{
 
+	public void run(){
+		
+	}
 }
