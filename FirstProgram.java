@@ -6,7 +6,69 @@ import stanford.karel.*;
 
 public class FirstProgram extends Karel{
 
-	public void run(){
-		
+	public void run()
+	{
+		move();
+		pickBeeper();
+		move();
+		turnLeft();
+		move();
+		move();
+		move();
+		move();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+		move();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+		turnLeft();
+		move();
+		move();
+		turnLeft();
+		move();
+		putBeeper();
+		turnLeft();
+		turnLeft();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+		move();
+		move();
+		move();
+		move();
+		turnLeft();
+		turnLeft();
 	}
 }
