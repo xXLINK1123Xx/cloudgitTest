@@ -8,7 +8,7 @@ public class FirstProgram extends Karel{
 
 	public void run()
 	{
-		move();
+		
 		pickBeeper();
 		move();
 		turnLeft();
