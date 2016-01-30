@@ -8,8 +8,12 @@ public class FirstProgram extends Karel{
 
 	public void run()
 	{
+<<<<<<< HEAD
 		move();
 		move();
+=======
+		
+>>>>>>> 8fd4d29fe3f420a8d53fdd7a1d55fb63cc9c5b00
 		pickBeeper();
 		move();
 		turnLeft();
