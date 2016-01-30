@@ -7,6 +7,7 @@ import stanford.karel.*;
 public class FirstProgram extends Karel{
 
 	public void run(){
+		/*HELLO WORLD*/
 		move();
 		move();
 		turnLeft();
